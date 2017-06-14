@@ -1,0 +1,10 @@
+
+    <resources>
+        <string name="app_name">Placio</string>
+        <string name="hello_world">Hello world!</string>
+        <string name="share">Share</string>
+        <string name="action_websearch">Web search</string>
+    </resources>
+
+
+
