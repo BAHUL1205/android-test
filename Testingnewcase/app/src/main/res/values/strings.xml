@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Material Card Animation</string>
+
+    <string name="image">image</string>
+    <string name="desc">
+
+      <font fgcolor='#004278'> <b> <u> Placio </u> </b></font> brings Co Living;
+        a new way of life Placio foster living together,
+        it entail Co Living,
+        it is built on the belief of community based living where experience is more important than possession.
+        It help individual to connect and live together.
+        Placio platform offers fully furnished shared room,
+        private room and personal Apartment for few nights to long lease basis.
+        Placio offers most curated place of living which are affordable and comfortable.
+        All Placio Co-Living places are physically verified and strategically placed to place of work for working professional, place of Universities for Students and Place of interest for group like Scholars, Tourist, back packers, medical tourist, Yoga trainee,
+        pilgrims including others
+
+    </string>
+
+    <string name="placio">PLACIO</string>
+    <string name="share">Share</string>
+    <string name="action_websearch">Web search</string>
+
+</resources>
